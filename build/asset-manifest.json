@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f26e2bc0.css",
+    "main.js": "/static/js/main.ba8428e1.js",
+    "static/js/453.42568bda.chunk.js": "/static/js/453.42568bda.chunk.js",
+    "static/media/BolaCash.png": "/static/media/BolaCash.be38efde884d491afda8.png",
+    "static/media/Domino's Pizza.png": "/static/media/Domino's Pizza.087b647e5181d65f1fc8.png",
+    "static/media/Creatiwise.png": "/static/media/Creatiwise.ad3c61e952b832684f2b.png",
+    "static/media/my-logo.jpg": "/static/media/my-logo.d4940f873b1aab6ba3b4.jpg",
+    "index.html": "/index.html",
+    "main.f26e2bc0.css.map": "/static/css/main.f26e2bc0.css.map",
+    "main.ba8428e1.js.map": "/static/js/main.ba8428e1.js.map",
+    "453.42568bda.chunk.js.map": "/static/js/453.42568bda.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f26e2bc0.css",
+    "static/js/main.ba8428e1.js"
+  ]
+}

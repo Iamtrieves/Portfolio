@@ -1,6 +1,6 @@
-import GTN from "../assests/GTN.png";
-import PasswordGenerator from "../assests/PasswordGenerator (1).png";
-import TipCalculator from "../assests/TipCalculator.jpg";
+import BolaCash from "../assests/BolaCash.png";
+import Creatiwise from "../assests/Creatiwise.png";
+import DominoPizza from "../assests/Domino's Pizza.png";
 
 const INFO = {
 	main: {
@@ -12,7 +12,7 @@ const INFO = {
 
 	socials: {
 		instagram:
-			"https://www.instagram.com/i_trieves/?igsh=ZGUzMzM3NWJiOQ%3D%3D",
+			"https://www.instagram.com/indok_david?igsh=NnFpbmlhZHh3dXhr",
 		github: "https://github.com/Iamtrieves",
 		linkedin: "https://www.linkedin.com/in/iamtrieves/",
 	},
@@ -64,30 +64,30 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Password-Generator-App",
+			title: "Bola-Cash",
 			description:
-				"Password generator application that incorporates character sets, length options, and complexity levels, ensuring the generation of robust passwords.",
-			logo: PasswordGenerator,
+				"Bola Cash is a React and Tailwind CSS web app that helps users convert trash into cash through organized recycling efforts. It promotes environmental sustainability by simplifying waste collection and monetization.",
+			logo: BolaCash,
 			linkText: "View Project",
-			link: "https://iamtrieves.github.io/Password-Generator-App/",
+			link: "https://bola-cash-repo.vercel.app/",
 		},
 
 		{
-			title: "Tip-Calculator",
+			title: "Domino's Pizza",
 			description:
-				"Convenient tip calculator allowing users to easily calculate tips for different bill amounts and percentages.",
-			logo: TipCalculator,
+				"Domino’s Pizza is a sleek, responsive landing page built with React, TypeScript, and Tailwind CSS. It showcases a modern UI design for promoting pizza products and enhancing user engagement.",
+			logo: DominoPizza,
 			linkText: "View Project",
-			link: "https://iamtrieves.github.io/Tip-Calculator-App/",
+			link: "https://domino-s-pizza.vercel.app/",
 		},
 
 		{
-			title: "GTN-Guess-The-Number",
+			title: "Creatiwise",
 			description:
-				"Fully functional guess the number application incorporating features like random number generation and user feedback.",
-			logo: GTN,
+				"Creatiwise is a modern, responsive landing page built with React, TypeScript, and Tailwind CSS. It highlights creative digital solutions with a sleek UI focused on clarity and visual appeal.",
+			logo: Creatiwise,
 			linkText: "View Project",
-			link: "https://iamtrieves.github.io/GTN-Guess-The-Number-Recreation/",
+			link: "https://creatiwise-blond.vercel.app/",
 		},
 	],
 };
