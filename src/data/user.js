@@ -14,7 +14,7 @@ const INFO = {
 		instagram:
 			"https://www.instagram.com/indok_david?igsh=NnFpbmlhZHh3dXhr",
 		github: "https://github.com/Iamtrieves",
-		linkedin: "https://www.linkedin.com/in/iamtrieves/",
+		linkedin: "https://www.linkedin.com/in/gabriel-indok-david",
 	},
 
 	homepage: {
